@@ -4,7 +4,7 @@
 			"type": "minecraft:overworld",
 			"generator": {
 				"type": "minecraft:noise",
-				"settings": "minecraft:overworld",
+				"settings": "minecraft:floating_overworld",
 				"biome_source": {
 					"type": "minecraft:multi_noise",
 					"biomes": [
@@ -86,7 +86,7 @@
 									1
 								],
 								"depth": 0,
-								"offset": 0
+								"offset": 0.33
 							}
 						},
 						{
@@ -113,7 +113,7 @@
 									1
 								],
 								"depth": 1,
-								"offset": 0
+								"offset": 0.33
 							}
 						},
 						{
@@ -140,7 +140,7 @@
 									1
 								],
 								"depth": 0,
-								"offset": 0
+								"offset": 0.33
 							}
 						},
 						{
@@ -167,7 +167,7 @@
 									1
 								],
 								"depth": 1,
-								"offset": 0
+								"offset": 0.33
 							}
 						},
 						{
@@ -194,7 +194,7 @@
 									1
 								],
 								"depth": 0,
-								"offset": 0
+								"offset": 0.33
 							}
 						},
 						{
@@ -221,7 +221,7 @@
 									1
 								],
 								"depth": 1,
-								"offset": 0
+								"offset": 0.33
 							}
 						},
 						{
@@ -248,7 +248,7 @@
 									1
 								],
 								"depth": 0,
-								"offset": 0
+								"offset": 0.33
 							}
 						},
 						{
@@ -275,7 +275,7 @@
 									1
 								],
 								"depth": 1,
-								"offset": 0
+								"offset": 0.33
 							}
 						},
 						{
@@ -302,7 +302,7 @@
 									1
 								],
 								"depth": 0,
-								"offset": 0
+								"offset": 0.33
 							}
 						},
 						{
@@ -329,7 +329,7 @@
 									1
 								],
 								"depth": 1,
-								"offset": 0
+								"offset": 0.33
 							}
 						},
 						{
@@ -356,7 +356,7 @@
 									1
 								],
 								"depth": 0,
-								"offset": 0
+								"offset": 0.33
 							}
 						},
 						{
@@ -383,7 +383,7 @@
 									1
 								],
 								"depth": 1,
-								"offset": 0
+								"offset": 0.33
 							}
 						},
 						{
@@ -410,7 +410,7 @@
 									1
 								],
 								"depth": 0,
-								"offset": 0
+								"offset": 0.33
 							}
 						},
 						{
@@ -437,7 +437,7 @@
 									1
 								],
 								"depth": 1,
-								"offset": 0
+								"offset": 0.33
 							}
 						},
 						{
@@ -464,7 +464,7 @@
 									1
 								],
 								"depth": 0,
-								"offset": 0
+								"offset": 0.33
 							}
 						},
 						{
@@ -491,7 +491,7 @@
 									1
 								],
 								"depth": 1,
-								"offset": 0
+								"offset": 0.33
 							}
 						},
 						{
@@ -518,7 +518,7 @@
 									1
 								],
 								"depth": 0,
-								"offset": 0
+								"offset": 0.33
 							}
 						},
 						{
@@ -545,7 +545,7 @@
 									1
 								],
 								"depth": 1,
-								"offset": 0
+								"offset": 0.33
 							}
 						},
 						{
@@ -572,7 +572,7 @@
 									1
 								],
 								"depth": 0,
-								"offset": 0
+								"offset": 0.33
 							}
 						},
 						{
@@ -599,7 +599,7 @@
 									1
 								],
 								"depth": 1,
-								"offset": 0
+								"offset": 0.33
 							}
 						},
 						{
@@ -205021,7 +205021,7 @@
 									-1,
 									1
 								],
-								"depth": 1.05,
+								"depth": 1.0,
 								"offset": 0
 							}
 						}
